@@ -3,6 +3,6 @@ Covers the basics of Scala Language - A fully object oriented programming langua
 
 ```scala
 
-var x = 'scala is awesome'
+var x = 'scala is an awesome language'
 
 ```

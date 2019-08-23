@@ -8,7 +8,16 @@ Scala is most frequently used programming language for data processing and machi
 
 In scala there is a difference between Methods and Functions
 
-Methods:
-
-
-Functions:
+1. Methods:
+ ```
+	A. it cannot be called without creating an objects.
+	B. are called by reference variables.
+	C. the arguments are implicitly passed while calling its object.
+	D. applicable in the case of only object oriented programming. 
+```
+2. Functions:
+```
+	A. it can be called without creating objects.
+	B. are called without creating a refernece
+	C. the arguments are explicitly passed.
+	D. applicable on both types of all types of programming.

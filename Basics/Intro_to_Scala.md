@@ -21,3 +21,4 @@ In scala there is a difference between Methods and Functions
 	B. are called without creating a refernece
 	C. the arguments are explicitly passed.
 	D. applicable on both types of all types of programming.
+```

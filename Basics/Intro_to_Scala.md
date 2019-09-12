@@ -6,6 +6,13 @@ Scala is most frequently used programming language for data processing and machi
 3. It is **pure** fuctional programming language.
 4. Null pointer do not affect the programming in scala.
 
+Features:
+
+1. Case sensitive language
+2. Purely Object Oriented Language
+3. Suports Functional programming paradigm
+4. 
+
 In scala there is a difference between Methods and Functions
 
 1. Methods:

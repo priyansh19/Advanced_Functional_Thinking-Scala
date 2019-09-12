@@ -11,7 +11,9 @@ Features:
 1. Case sensitive language
 2. Purely Object Oriented Language
 3. Suports Functional programming paradigm
-4. 
+4. Can execute java program
+5. Statically typed language
+
 
 In scala there is a difference between Methods and Functions
 

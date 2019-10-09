@@ -1,0 +1,2 @@
+var data = 100  
+data = 101  // It works, No error.  
